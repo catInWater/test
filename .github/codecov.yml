@@ -1,0 +1,6 @@
+coverage:
+  status:
+    patch:
+      default:
+        target: 100%        # 必须达到 100%
+        threshold: 0%       # 不允许下降
